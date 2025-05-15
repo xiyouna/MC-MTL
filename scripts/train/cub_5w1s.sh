@@ -1,0 +1,1 @@
+python train.py -batch 64 -dataset cub -gpu 0,1 -extra_dir design -lamb 1.5 -pre_pth cub_1shot
