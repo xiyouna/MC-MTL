@@ -79,7 +79,7 @@ If you find this work helpful in your research, please consider citing our manus
   year={2025},
   note={Manuscript submitted to a computer vision journal}
 }
-
+```
 
 ## acknowledgement
 Our project references the codes in the following repos.
