@@ -1,7 +1,8 @@
 <div align="center">
-  <h1>Multi-constraint meta-transfer Learning for few-shot Image Classification</h1>
+  <h1>MC-MTL</h1>
+  <p><strong>This code repository is associated with our manuscript currently under review at a computer vision journal:</strong></p>
+  <p><em>“Enhancing Few-shot Image Classification via Multi-constraint Meta-Transfer Learning with Bidirectional Calibration”</em></p>
 </div>
-
 
 ## Prerequisites
 * Ubuntu 16.04
@@ -65,6 +66,20 @@ bash scripts/train/cub_5wKs.sh
 ```bash
 bash scripts/train/cub_5w1s.sh
 ```
+
+## Citation
+
+If you find this work helpful in your research, please consider citing our manuscript currently under review:
+
+```bibtex
+@article{song2025mcmtl,
+  title={Enhancing Few-shot Image Classification via Multi-constraint Meta-Transfer Learning with Bidirectional Calibration},
+  author={Wei Song and Xiuna Zhang},
+  journal={Under review},
+  year={2025},
+  note={Manuscript submitted to a computer vision journal}
+}
+
 
 ## acknowledgement
 Our project references the codes in the following repos.
