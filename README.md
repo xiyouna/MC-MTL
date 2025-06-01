@@ -69,6 +69,10 @@ bash scripts/train/cub_5w1s.sh
 
 ## Citation
 
+If you use this code in your research, please cite the following DOI:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8475.svg)](https://doi.org/10.5281/zenodo.8475)
+
 If you find this work helpful in your research, please consider citing our manuscript currently under review:
 
 ```bibtex
